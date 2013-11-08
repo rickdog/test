@@ -1,4 +1,3 @@
-<script>
 (
   function()
 	 {
@@ -51,4 +50,4 @@ function doDialog()
 			}
 		);
 }
-</script>
+
