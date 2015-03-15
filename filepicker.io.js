@@ -5,7 +5,7 @@
 		 if (typeof filepicker=='undefined')
 		 {
 			 var s = document.createElement('script');
-			 s.src = 'http://api.filepicker.io/v1/filepicker.js';
+			 s.src = '//api.filepicker.io/v1/filepicker.js';
 			 if (s.addEventListener)
 			 {
 				 s.addEventListener("load", start, false);
